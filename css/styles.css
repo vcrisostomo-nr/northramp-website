@@ -28,6 +28,8 @@ a{color:#c05a11;text-decoration:none}a:hover{color:#f47b20}
 .btn:hover::after{transform:translateX(4px)}
 .btn.ghost{background:transparent;border:1.5px solid rgba(255,255,255,.5);box-shadow:none}
 .btn.ghost:hover{border-color:#f47b20;background:rgba(244,123,32,.15)}
+.scard:hover{background:#e06a10;color:#fff;box-shadow:0 8px 22px rgba(244,123,32,.4);transform:translateY(-2px)}
+.scard:hover::after{transform:translateX(4px)}
 .wrap{max-width:1440px;margin:0 auto;padding:0 80px}
 .ph{position:relative;border:1.5px dashed #9aa4b4;background:#eef0f3;color:#7c8590;display:flex;align-items:center;justify-content:center;border-radius:8px}
 .ph span{background:rgba(255,255,255,.9);padding:2px 12px;font-size:12px;border-radius:4px}
